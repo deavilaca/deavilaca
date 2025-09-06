@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 :computer: Web developer III (Full stack developer) 
 ___
 
-:cloud:[Sitio web](https://lds.org)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Flds.org)
+
+![La Iglesia de Jesucrito](https://img.shields.io/website?url=https%3A%2F%2Flds.org)
