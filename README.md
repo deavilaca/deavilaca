@@ -20,3 +20,4 @@ ___
 
 
 ![Lds](https://img.shields.io/website?url=https%3A%2F%2Fwww.churchofjesuschrist.org%2F%3Flang%3Dspa)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
