@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ___
 
 
-![lds](https://img.shields.io/website?url=https%3A%2F%2Fwww.churchofjesuschrist.org%2F%3Flang%3Dspa)
+![Lds](https://img.shields.io/website?url=https%3A%2F%2Fwww.churchofjesuschrist.org%2F%3Flang%3Dspa)
