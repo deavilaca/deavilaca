@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 :computer: Web developer III (Full stack developer) 
 ___
 
-
-![B](https://img.shields.io/website?url=https%3A%2F%2Fwww.churchofjesuschrist.org%2F%3Flang%3Dspa)<br>
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+:cloud: La Iglesia de Jesucrito (https://img.shields.io/website?
