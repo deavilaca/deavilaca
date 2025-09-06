@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 :computer: Web developer III (Full stack developer) 
 ___
 
-![website](https://lds.org)
+:cloud:[Sitio web](https://lds.org)
 
