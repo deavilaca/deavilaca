@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:computer: Web developer III (Full stack developer) 
+:computer: Web Developer II (Full stack developer) 
 --
 Tools
 ___
